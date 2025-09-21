@@ -1,3 +1,5 @@
+registerProcessor('audio-worklet',class extends AudioWorkletProcessor
+{constructor()
 {super();this.shouldExit=false;this.port.onmessage=(event)=>{this.shouldExit=event.data;};}
 Float32ToInt16(n)
 {return(n>0)?n*32767:n*32768;}
