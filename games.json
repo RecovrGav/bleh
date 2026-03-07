@@ -1,0 +1,240 @@
+[
+  {
+    "id": "deltarune",
+    "name": "Deltarune",
+    "icon": "https://recovrgav.github.io/bleh/logos/deltaruneicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/deltarune/index.html",
+    "genre": ["premium"]
+  },
+  {
+    "id": "baldicr",
+    "name": "Baldi's Basics Classic Remastered",
+    "icon": "https://recovrgav.github.io/bleh/logos/baldiicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/baldiremaster.html",
+    "genre": ["horror", "premium"]
+  },
+  {
+    "id": "fnaf1",
+    "name": "FNAF 1",
+    "icon": "https://recovrgav.github.io/bleh/logos/fnaf1icon.png",
+    "link": "https://recovrgav.github.io/bleh/games/fnaf1.html",
+    "genre": ["horror", "premium"]
+  },
+  {
+    "id": "fnaf2",
+    "name": "FNAF 2",
+    "icon": "https://recovrgav.github.io/bleh/logos/fnaf2icon.png",
+    "link": "https://recovrgav.github.io/bleh/games/fnaf2.html",
+    "genre": ["horror", "premium"]
+  },
+  {
+    "id": "fnaf3",
+    "name": "FNAF 3",
+    "icon": "https://recovrgav.github.io/bleh/logos/fnaf3icon.png",
+    "link": "https://recovrgav.github.io/bleh/games/fnaf3.html",
+    "genre": ["horror", "premium"]
+  },
+  {
+    "id": "fnaf4",
+    "name": "FNAF 4",
+    "icon": "https://recovrgav.github.io/bleh/logos/fnaf4icon.png",
+    "link": "https://recovrgav.github.io/bleh/games/fnaf4.html",
+    "genre": ["horror", "premium"]
+  },
+  {
+    "id": "fnaf4halloween",
+    "name": "FNAF 4 Halloween",
+    "icon": "https://recovrgav.github.io/bleh/logos/fnaf4halloweenicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/fnaf4halloween.html",
+    "genre": ["horror", "premium"]
+  },
+  {
+    "id": "fnafsis",
+    "name": "FNAF 5: Sister Location",
+    "icon": "https://recovrgav.github.io/bleh/logos/sisterlocationicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/fnaf5.html",
+    "genre": ["horror", "premium"]
+  },
+  {
+    "id": "fnafsim",
+    "name": "FNAF 6: Pizza Sim",
+    "icon": "https://recovrgav.github.io/bleh/logos/fnaf6icon.png",
+    "link": "https://recovrgav.github.io/bleh/games/fnaf6.html",
+    "genre": ["horror", "premium"]
+  },
+  {
+    "id": "fnafworld",
+    "name": "FNAF World",
+    "icon": "https://recovrgav.github.io/bleh/logos/fnafworldicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/fnafworld.html",
+    "genre": ["horror"]
+  },
+  {
+    "id": "fnafucn",
+    "name": "FNAF Ultimate Custom Night",
+    "icon": "https://recovrgav.github.io/bleh/logos/fnafucnicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/fnafucn.html",
+    "genre": ["horror", "premium"]
+  },
+  {
+    "id": "baldiplus",
+    "name": "Baldi's Basics Plus",
+    "icon": "https://recovrgav.github.io/bleh/logos/baldiplusicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/baldiplus.html",
+    "genre": ["horror", "premium"]
+  },
+  {
+    "id": "ultrakill",
+    "name": "Ultrakill",
+    "icon": "https://recovrgav.github.io/bleh/logos/ultrakillicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/ultrakill.html",
+    "genre": ["action", "shooter", "premium", "mature"]
+  },
+  {
+    "id": "buckshotr",
+    "name": "Buckshot Roulette",
+    "icon": "https://recovrgav.github.io/bleh/logos/buckshoticon.png",
+    "link": "https://recovrgav.github.io/bleh/games/buckshotroulette.html",
+    "genre": ["action", "premium", "difficult"]
+  },
+  {
+    "id": "undertale",
+    "name": "Undertale",
+    "icon": "https://recovrgav.github.io/bleh/logos/undertaleicon.png",
+    "link": "https://undertale.win/play/play.html",
+    "genre": ["premium"]
+  },
+  {
+    "id": "bendy",
+    "name": "Bendy and the Ink Machine",
+    "icon": "https://recovrgav.github.io/bleh/logos/bendyicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/bendy.html",
+    "genre": ["horror", "premium"]
+  },
+  {
+    "id": "pizzatower",
+    "name": "Pizza Tower",
+    "icon": "https://recovrgav.github.io/bleh/logos/pizzatowericon.png",
+    "link": "https://recovrgav.github.io/bleh/games/pizzatower.html",
+    "genre": ["difficult", "action", "premium"]
+  },
+  {
+    "id": "peopleplayground",
+    "name": "People Playground",
+    "icon": "https://recovrgav.github.io/bleh/logos/peopleplaygroundicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/peopleplayground.html",
+    "genre": ["sandbox", "premium"]
+  },
+  {
+    "id": "minecraft12",
+    "name": "Minecraft 1.12.2",
+    "icon": "https://recovrgav.github.io/bleh/logos/minecraft12icon.png",
+    "link": "https://recovrgav.github.io/bleh/games/minecraft12.html",
+    "genre": ["sandbox", "calm"]
+  },
+  {
+    "id": "undertaleyellow",
+    "name": "Undertale Yellow",
+    "icon": "https://recovrgav.github.io/bleh/logos/undertaleyellowicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/undertaleyellow.html",
+    "genre": ["rpg", "premium"]
+  },
+  {
+    "id": "webfishing",
+    "name": "Webfishing (Jam Ver.)",
+    "icon": "https://recovrgav.github.io/bleh/logos/webfishingicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/webfishing.html",
+    "genre": ["calm", "sports"]
+  },
+  {
+    "id": "bergentruck",
+    "name": "Bergentruck 201X",
+    "icon": "https://recovrgav.github.io/bleh/logos/bergentruckicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/bergentruck.html",
+    "genre": ["driving", "action", "premium"]
+  },
+  {
+    "id": "hotlinemiami",
+    "name": "Hotline Miami",
+    "icon": "https://recovrgav.github.io/bleh/logos/hotlinemiamiicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/hotlinemiami.html",
+    "genre": ["shooter", "action", "difficult", "premium"]
+  },
+  {
+    "id": "kindergarten1",
+    "name": "Kindergarten 1",
+    "icon": "https://recovrgav.github.io/bleh/logos/kidnergarten1icon.png",
+    "link": "https://recovrgav.github.io/bleh/games/kindergarten1.html",
+    "genre": ["premium"]
+  },
+  {
+    "id": "kindergarten2",
+    "name": "Kindergarten 2",
+    "icon": "https://recovrgav.github.io/bleh/logos/kidnergarten2icon.png",
+    "link": "https://recovrgav.github.io/bleh/games/kindergarten2.html",
+    "genre": ["premium"]
+  },
+  {
+    "id": "nubby",
+    "name": "Nubby's Number Factory",
+    "icon": "https://recovrgav.github.io/bleh/logos/nubbyicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/nubby/index.html",
+    "genre": ["premium", "roguelike", "calm"]
+  },
+  {
+    "id": "repo",
+    "name": "R.E.P.O.",
+    "icon": "https://recovrgav.github.io/bleh/logos/repoicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/repo.html",
+    "genre": ["premium", "roguelike", "horror"]
+  },
+  {
+    "id": "garfield",
+    "name": "Bad Monday (Garfield Fight)",
+    "icon": "https://recovrgav.github.io/bleh/logos/garfieldicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/garfield/index.html",
+    "genre": ["premium", "difficult"]
+  },
+  {
+    "id": "pacman",
+    "name": "Pac-Man?",
+    "icon": "https://recovrgav.github.io/bleh/logos/pacmanhorroricon.png",
+    "link": "https://recovrgav.github.io/bleh/games/pacmanhorror/index.html",
+    "genre": ["horror", "difficult"]
+  },
+  {
+    "id": "fnac1",
+    "name": "FNAC 1",
+    "icon": "https://recovrgav.github.io/bleh/logos/fnac1icon.png",
+    "link": "https://recovrgav.github.io/bleh/games/fnac1/index.html",
+    "genre": ["horror"]
+  },
+  {
+    "id": "fnac2",
+    "name": "FNAC 2",
+    "icon": "https://recovrgav.github.io/bleh/logos/fnac2icon.png",
+    "link": "https://recovrgav.github.io/bleh/games/fnac2/index.html",
+    "genre": ["horror"]
+  },
+  {
+    "id": "fnac3",
+    "name": "FNAC 3",
+    "icon": "https://recovrgav.github.io/bleh/logos/fnac3icon.png",
+    "link": "https://recovrgav.github.io/bleh/games/fnac3/index.html",
+    "genre": ["horror"]
+  },
+  {
+    "id": "hollowknight",
+    "name": "Hollow Knight",
+    "icon": "https://recovrgav.github.io/bleh/logos/hollowknighticon.png",
+    "link": "https://recovrgav.github.io/bleh/games/hollowknight/index.html",
+    "genre": ["action", "premium", "difficult"]
+  },
+  {
+    "id": "cuphead",
+    "name": "Cuphead",
+    "icon": "https://recovrgav.github.io/bleh/logos/cupheadicon.png",
+    "link": "https://recovrgav.github.io/bleh/games/cuphead/index.html",
+    "genre": ["action", "premium", "difficult"]
+  }
+]
